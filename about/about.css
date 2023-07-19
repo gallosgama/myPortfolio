@@ -1,0 +1,33 @@
+nav{
+    background-color: rgb(223, 130, 8);
+}
+
+body{
+    background-color:rgba(237, 220, 200, 0.753) ;
+ 
+}
+
+.aboutInfo{
+    /* border:0.2px solid red; */
+    background-color: rgba(251, 219, 57, 0.55);
+    height:70vh;
+    width:67vw;
+    display: block;
+    margin:4% 30% 10% 5%;
+    color:rgb(77, 117, 16);
+    /* color:white; */
+    font-size:3vh;
+    padding-left:2vw;
+    padding-top: 3.5vh;
+    padding-right:1vw;
+    
+}
+
+.aboutLine{
+   
+}
+
+.aboutLine1  span{
+    font-size: 4vh;
+    color:rgb(92, 130, 15);
+}
